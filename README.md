@@ -1,2 +1,2 @@
-# github-example
-just an exmaple
+# IBM-Applied Data Science Capstone
+Projects
